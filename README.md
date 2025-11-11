@@ -97,7 +97,7 @@ This version is built for **speed and simplicity**:
 ## 🧩 Author
 👤 **Sriram Parthiban**  
 Automation Specialist | AI Workflow Builder  
-🔗 *Building smarter workflows with n8n & AI.*
+🔗 *Building smarter workflows with n8n & AI*
 
 ---
 
