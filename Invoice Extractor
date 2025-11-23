@@ -9,7 +9,7 @@
   "nodes": [
     {
       "id": "a8716edb-e05a-43a5-a38f-384fa05e93cf",
-      "name": "When clicking ‘Test workflow’",
+      "name": "When clicking ‘Test workflows’",
       "type": "n8n-nodes-base.manualTrigger",
       "position": [
         320,
