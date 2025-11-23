@@ -55,7 +55,7 @@
     },
     {
       "id": "160e8e02-8f70-4c8f-a3c4-a94cf2325b82",
-      "name": "Load files from Google Drive folder",
+      "name": "Load files from Google Drive folders",
       "type": "n8n-nodes-base.googleDrive",
       "position": [
         880,
